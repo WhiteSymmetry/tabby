@@ -1,0 +1,79 @@
+{
+  "TITLE": {
+    "timetable": "Ders Programı/Zaman Çizelgesi",
+    "tasks": "Görevler",
+    "settings": "Ayarlar",
+    "newLesson": "Yeni ders ekle",
+    "editLesson": "Dersi düzenle",
+    "newTask": "Yeni görev ekle"
+  },
+  "SUBTITLE": {
+    "timetable": "Burada haftalık programınızı görebilirsiniz. Dersleri düzenlemek veya silmek için sağ tıklayın.",
+    "tasks": "Burada görevlerinizi görebilirsiniz. Bir görevi silmek için sil tuşuna basın ve sil tuşunu/düğmesini basılı tutun.",
+    "settings": "Buradan tercihlerinizi değiştirebilirsiniz. Otomatik olarak kaydedilir.",
+    "newLesson": "Dersin ayrıntılarını ayarlayın, sonra kaydedin.",
+    "editLesson": "Dersin ayrıntılarını düzenleyin, sonra kaydedin.",
+    "newTask": "Görevi ayarlayın, sonra kaydedin."
+  },
+  "SETTINGS": {
+    "language": "Lisan",
+    "week": "Geçerli hafta",
+    "THEME": {
+      "theme": "Tema",
+      "darkMode": "Karanlık mod",
+      "mainColor": "Ana renk"
+    }
+  },
+  "TIMETABLE": {
+    "title": "Zaman çizelgeniz şu anda boş",
+    "subtitle": "Sağ üst köşedeki düğmeyle yeni bir ders ekleyerek başlayın."
+  },
+  "TASKS": {
+    "title": "Şu anda hiç göreviniz yok",
+    "subtitle": "Sağ üst köşedeki düğmeyle yeni bir görev ekleyerek başlayın."
+  },
+  "NEWLESSON": {
+    "newButton": "Dersi kaydet ve ekle",
+    "editButton": "Dersi kaydet",
+    "NORMAL": {
+      "start_time": "Başlangıç saati",
+      "finish_time": "Bitiş saati",
+      "lesson_name": "Dersin adı",
+      "teacher_name": "Öğretmenin adı (isteğe bağlı)",
+      "class_room": "Sınıf odası (isteğe bağlı)",
+      "week": "Hafta",
+      "day": "Gün"
+    },
+    "ERROR": {
+      "start_time": "Başlangıç saati gereklidir.",
+      "finish_time": "Bitiş saati gereklidir.",
+      "lesson_name": "Dersin adı gereklidir.",
+      "lesson_name_maxlength": "Ders adı 45 karakterden uzun olamaz.",
+      "week": "Hafta gereklidir.",
+      "day": "Gün gereklidir."
+    }
+  },
+  "NEWTASK": {
+    "button": "Kaydet ve görev ekle",
+    "NORMAL": {
+      "task": "Görev",
+      "description": "Açıklama (isteğe bağlı)"
+    },
+    "ERROR": {
+      "task": "Başlık gereklidir."
+    }
+  },
+  "DAYS": {
+    "monday": "Pazartesi",
+    "tuesday": "Salı",
+    "wednesday": "Çarşamba",
+    "thursday": "Perşembe",
+    "friday": "Cuma",
+    "saturday": "Cumartesi",
+    "sunday": "Pazar"
+  },
+  "CONTEXTMENU": {
+    "delete": "Silmek için basın ve basılı tutun",
+    "edit": "Düzenlemek için tıklayın"
+  }
+}
